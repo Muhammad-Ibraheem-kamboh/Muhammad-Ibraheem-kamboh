@@ -2,7 +2,7 @@
 
 # Hi there, I'm Muhammad Ibrahim (Abdaal) 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0052FF&center=true&vCenter=true&width=600&lines=BS+Mathematics+%40+IBA+Karachi;Building+AI+Systems+%26+Applied+Software;Low-Level+Optimization+%26+Cybersecurity;Crafting+Zero-Dependency+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0052FF&center=true&vCenter=true&width=600&lines=BS+Mathematics+%40+IBA+Karachi;Building+AI+Systems+%26+Applied+Software;Native+Android+%26+Systems+Optimization;Crafting+Zero-Dependency+Engineering)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/Muhammad-Ibraheem-kamboh">
@@ -21,7 +21,7 @@
 - 🎓 **Education**: BS Mathematics student at **IBA Karachi** | Akhuwat College Kasur Alum (Full Merit Scholar).
 - 🧠 **Mindset**: Deeply curious problem solver bridging rigorous mathematics, AI agent architecture, and performant systems engineering.
 - ⚡ **Philosophy**: *"I don't want to just learn how things work. I want to understand deeply, build meaningful things, and continuously improve myself."*
-- 🎯 **Current Focus**: High-performance local AI inference, zero-dependency system suites, and cross-platform desktop architecture.
+- 🎯 **Current Focus**: High-performance local AI inference, native Android architecture (Jetpack Compose & on-device ML), and zero-dependency system suites.
 
 ---
 
@@ -31,10 +31,10 @@
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
-| **AI & Vision** | ![MediaPipe](https://img.shields.io/badge/MediaPipe-0052FF?style=flat-square&logo=google&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Gemini API](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white) ![Local AI](https://img.shields.io/badge/Zero--Cloud_AI-098551?style=flat-square) |
-| **Web & Systems** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-0052FF?style=flat-square) |
-| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Windows APIs](https://img.shields.io/badge/WMI%2FCIM-0078D6?style=flat-square&logo=windows&logoColor=white) |
+| **Languages** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| **Mobile & Systems** | ![Android](https://img.shields.io/badge/Android_Native-3DDC84?style=flat-square&logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PowerShell Core](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
+| **AI & Vision** | ![MediaPipe](https://img.shields.io/badge/MediaPipe-0052FF?style=flat-square&logo=google&logoColor=white) ![ML Kit](https://img.shields.io/badge/Google_ML_Kit-FBBC04?style=flat-square&logo=google&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Zero-Cloud AI](https://img.shields.io/badge/Zero--Cloud_AI-098551?style=flat-square) |
+| **DevOps & Architecture** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub CI](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Room DB](https://img.shields.io/badge/Room_DB-4285F4?style=flat-square&logo=sqlite&logoColor=white) ![WMI/CIM](https://img.shields.io/badge/Windows_APIs-0078D6?style=flat-square&logo=windows&logoColor=white) |
 
 </div>
 
@@ -45,37 +45,49 @@
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center">📬 Khabar (خبر)</h3>
+      <p align="center">
+        <a href="https://github.com/Muhammad-Ibraheem-kamboh/khabar">
+          <img src="https://img.shields.io/badge/Native_Android-Kotlin_Compose-7F52FF?style=for-the-badge&logo=android" alt="Android"/>
+        </a>
+      </p>
+      <p>On-device Android academic mail assistant built with Jetpack Compose & Material 3. Solves university email overload via ML Kit OCR screenshot course import, multilingual AI summaries (Urdu, Roman Urdu, English), and custom 16-bit PCM synthesized alert tones.</p>
+      <p><strong>Stack:</strong> Kotlin • Jetpack Compose • Room • ML Kit • Coroutines • WorkManager</p>
+    </td>
+    <td width="50%">
       <h3 align="center">⚡ Apex Windows Optimizer Pro</h3>
       <p align="center">
         <a href="https://github.com/Muhammad-Ibraheem-kamboh/Apex-Windows-Optimizer">
           <img src="https://img.shields.io/badge/Release-v1.0.0-0052FF?style=for-the-badge&logo=windows" alt="Release"/>
         </a>
       </p>
-      <p>An ultra-lightweight, zero-dependency Windows performance suite and hardware optimizer. Features instant unmanaged RAM recovery (+2.7 GB freed in &lt;450ms), battery swell safety guard, and an agency-tier <strong>Coinbase iOS Light UI</strong>.</p>
+      <p>Ultra-lightweight, zero-dependency Windows performance suite and hardware optimizer. Instant unmanaged RAM recovery (+2.7 GB freed in &lt;450ms), battery swell safety guard, and an agency-tier <strong>Coinbase iOS Light UI</strong>.</p>
       <p><strong>Stack:</strong> Native Node.js • PowerShell Core • WMI/CIM • Vanilla JS</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🧠 MindPulse AI</h3>
-      <p align="center">
-        <a href="https://github.com/Muhammad-Ibraheem-kamboh/MindPulse-AI">
-          <img src="https://img.shields.io/badge/Local_AI-Computer_Vision-098551?style=for-the-badge" alt="AI"/>
-        </a>
-      </p>
-      <p>Next-Gen 3D Cognitive Focus, Biometrics & Ergonomics Studio. Runs 100% on-device using MediaPipe, 6DoF Head Pose estimation, PERCLOS ocular analysis, and zero-cloud private biometric telemetry.</p>
-      <p><strong>Stack:</strong> Python • OpenCV • Google MediaPipe • Tkinter</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
+      <h3 align="center">🧠 MindPulse AI</h3>
+      <p align="center">
+        <a href="https://github.com/Muhammad-Ibraheem-kamboh/MindPulse-AI">
+          <img src="https://img.shields.io/badge/Release-v1.0.0-098551?style=for-the-badge&logo=python" alt="AI"/>
+        </a>
+      </p>
+      <p>Next-Gen 3D Cognitive Focus, Biometrics & Ergonomics Studio. Runs 100% on-device using MediaPipe, 6DoF Head Pose estimation, NASA/FAA PERCLOS ocular analysis, and zero-cloud private biometric telemetry.</p>
+      <p><strong>Stack:</strong> Python • OpenCV • Google MediaPipe • Tkinter • WebRTC</p>
+    </td>
+    <td width="50%">
       <h3 align="center">✍️ Clean Urdu Nastaleeq</h3>
       <p align="center">
         <a href="https://github.com/Muhammad-Ibraheem-kamboh/clean-urdu-nastaleeq-extension">
-          <img src="https://img.shields.io/badge/Chrome_Extension-Manifest_V3-E34F26?style=for-the-badge&logo=googlechrome" alt="Chrome"/>
+          <img src="https://img.shields.io/badge/Release-v1.0.0-E34F26?style=for-the-badge&logo=googlechrome" alt="Chrome"/>
         </a>
       </p>
       <p>Browser typography engine for zero-layout-shift Nastaleeq Urdu rendering with custom font pairings (Inter, Lexend, Merriweather) across dynamic web surfaces.</p>
-      <p><strong>Stack:</strong> WebExtensions API • JavaScript • CSS Custom Layouts</p>
+      <p><strong>Stack:</strong> WebExtensions API (MV3) • JavaScript • CSS Custom Layouts</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">📻 Secure Walkie-Talkie</h3>
       <p align="center">
@@ -83,8 +95,18 @@
           <img src="https://img.shields.io/badge/Mobile-Offline_P2P-02569B?style=for-the-badge&logo=flutter" alt="Flutter"/>
         </a>
       </p>
-      <p>An offline peer-to-peer encrypted audio communication system operating without cellular networks or internet access using direct device mesh networking.</p>
+      <p>Offline peer-to-peer encrypted audio communication system operating without cellular networks or internet access using direct device mesh networking.</p>
       <p><strong>Stack:</strong> Flutter • Dart • P2P Wi-Fi Direct • Audio Streaming</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎓 Akhuwat College Kasur CMS</h3>
+      <p align="center">
+        <a href="https://github.com/Muhammad-Ibraheem-kamboh/akhuwat-college-kasur-cms">
+          <img src="https://img.shields.io/badge/Full_Stack-Enterprise_CMS-3178C6?style=for-the-badge&logo=typescript" alt="CMS"/>
+        </a>
+      </p>
+      <p>Comprehensive Academic Management System featuring automated scheduling, attendance tracking, student warning triggers, result analytics, and house system integration.</p>
+      <p><strong>Stack:</strong> TypeScript • React • Tailwind CSS • CI Pipelines</p>
     </td>
   </tr>
 </table>
