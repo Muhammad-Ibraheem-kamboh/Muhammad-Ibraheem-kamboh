@@ -10,6 +10,12 @@
   </a>
   <img src="https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-0A0B0D?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
   <img src="https://img.shields.io/badge/Focus-AI%20Systems%20%26%20Mathematics-098551?style=for-the-badge" alt="Focus"/>
+  <a href="https://tech-for-all-mauve.vercel.app/">
+    <img src="https://img.shields.io/badge/TechForAll-Founder_%26_Operations_Lead-16A34A?style=for-the-badge" alt="TechForAll Founder"/>
+  </a>
+  <a href="https://github.com/Muhammad-Ibraheem-kamboh/ibrahim-abdaal-portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-ibrahim--abdaal--portfolio-11120F?style=for-the-badge&logo=vercel" alt="Portfolio"/>
+  </a>
 </p>
 
 </div>
@@ -19,6 +25,7 @@
 ### 🚀 About Me
 
 - 🎓 **Education**: BS Mathematics student at **IBA Karachi** | Akhuwat College Kasur Alum (Full Merit Scholar).
+- 🌱 **Leadership**: **Founder & Operations Lead** of **[TechForAll](https://tech-for-all-mauve.vercel.app/)** — expanding tuition-free digital skills and shared community compute across Pakistan.
 - 🧠 **Mindset**: Deeply curious problem solver bridging rigorous mathematics, AI agent architecture, and performant systems engineering.
 - ⚡ **Philosophy**: *"I don't want to just learn how things work. I want to understand deeply, build meaningful things, and continuously improve myself."*
 - 🎯 **Current Focus**: High-performance local AI inference, native Android architecture (Jetpack Compose & on-device ML), and zero-dependency system suites.
